@@ -34,3 +34,9 @@ While voice commands for 3D software aren't entirely new, **Speech-to-Maya** com
 [ Autodesk Maya (maya.cmds Bridge) ] 
       ▼
 [ 3D Geometry Created & Modified Procedurally ]
+
+Future Roadmap (Post-Hackathon):
+
+Fine-tune Qwen 2.5-Coder on a custom dataset of 500+ maya.cmds procedural scene layouts using Unsloth.
+
+Add Model Context Protocol (MCP) support to let Claude vision inspect viewport renders in real time.
